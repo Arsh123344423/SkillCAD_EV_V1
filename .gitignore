@@ -1,0 +1,15 @@
+# Environment files
+backend/.env
+backend/.env.*
+frontend/.env
+frontend/.env.*
+
+# Local overrides
+.env
+.env.*
+
+#Values
+backend/venv
+backend/__pycache__
+frontend/node_modules
+frontend/.next
